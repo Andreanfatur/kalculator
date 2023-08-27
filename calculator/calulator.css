@@ -1,0 +1,30 @@
+.container {
+  margin-left: 100px;
+}
+.container button {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 40px;
+}
+#calculator1 {
+  margin-top: 20px;
+  width: 400px;
+  font-size: 20px;
+}
+#calculator2 {
+  margin-top: 10px;
+  width: 400px;
+  font-size: 20px;
+}
+.hasil {
+  height: 20px;
+  width: 400px;
+  border: black solid 2px;
+  margin-top: 20px;
+}
+.message {
+  display: none;
+}
+.active {
+  display: block;
+}

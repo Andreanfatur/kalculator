@@ -1,0 +1,45 @@
+h1 {
+  margin-left: 100px;
+}
+.persegi {
+  margin-left: 100px;
+}
+.persegi h3 {
+  margin-bottom: 40px;
+}
+.persegi input {
+  width: 400px;
+  height: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.persegi label {
+  margin-top: 30px;
+  font-size: 20px;
+}
+.Lpersegi {
+  width: 400px;
+  height: 30px;
+  border: 2px solid black;
+  margin-top: 30px;
+}
+.Lsegitiga {
+  width: 400px;
+  height: 30px;
+  border: 2px solid black;
+  margin-top: 30px;
+}
+.luaspersegi {
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 330px;
+}
+.warning {
+  display: none;
+  font-size: 20px;
+}
+.active {
+  display: block;
+}
